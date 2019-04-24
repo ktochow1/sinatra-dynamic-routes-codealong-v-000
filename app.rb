@@ -1,4 +1,4 @@
-requre 'pry'
+require 'pry'
 
 require_relative 'config/environment'
 
