@@ -27,5 +27,5 @@ class App < Sinatra::Base
     @num2 = params[:num2]
     "#{params[:num1] * params[:num2]}"
   end
-  binding.pry
+  # binding.pry
 end
