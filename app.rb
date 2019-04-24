@@ -28,5 +28,5 @@ class App < Sinatra::Base
     binding.pry
     "#{params[:num1] * params[:num2]}"
   end
-   binding.pry
+   
 end
